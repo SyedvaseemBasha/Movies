@@ -1,3 +1,6 @@
-###Movie Audience Rating Prediction###
+### Movie Audience Rating Prediction
 
-live to predict 
+for live to prediction
+```bash
+Streamlit run app.y
+```
