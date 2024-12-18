@@ -2,6 +2,7 @@ skicit-learn
 pandas
 numpy
 streamlit
-Xgboost
-Catboost
+xgboost 
+catboost
+pickle
 joblib
